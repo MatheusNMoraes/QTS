@@ -4,7 +4,7 @@
     padding: 0;
 }
 
-.banner-img {
+.img-banner {
     position: relative;
     max-height: 400px; 
     object-fit: cover;
